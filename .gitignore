@@ -1,0 +1,269 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Rider IDE
+.idea/
+*.sln.iml
+*.swp
+*.swo
+*~
+.DS_Store
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+.nuget/packages/
+.nuget/NuGet.Config
+.nuget/NuGet.exe
+.nuget/packages.config
+
+# Entity Framework
+migrations/
+*.db
+*.db-shm
+*.db-wal
+*.mdf
+*.ldf
+
+# Local database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+appsettings.local.json
+appsettings.*.local.json
+
+# User Secrets
+secrets.json
+secrets.*.json
+
+# Testing
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+OpenCover/
+CodeCoverage/
+
+# Build results
+artifacts/
+dist/
+build/
+
+# MSBuild output
+*.msbuild.log
+*.msbuild.err
+*.msbuild.wrn
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+reSharper*.xml
+*.resharper
+
+# JetBrains Rider
+.idea
+*.sln.iml
+
+# Build folder
+/build/
+/publish/
+/PublishProfiles/
+
+# Hangfire
+hangfire.db
+Hangfire.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled binary addons
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*~
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# SonarQube
+.scannerwork/
+sonarqube.log
+
+# Fody - IL weaving
+FodyWeavers.xsd
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Certificate files
+*.pfx
+*.pem
+*.key
+*.crt
+
+# Configuration backups
+appsettings.Production.json
+appsettings.Staging.json
+
+# Temporary files
+tmp/
+temp/
+*.temp
+
+# IDE specific
+.gradle
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# OS Specific
+.DS_Store
+.DS_Store?
+._*
+._.?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package managers
+.bundled-gems/
+vendor/bundle/
+.yarn-integrity
+
+# Project specific
+Properties/launchSettings.json
+launchSettings.json
+
+# User-specific files
+.vscode/launch.json
+.vscode/tasks.json
+
+# Claude Code specific
+.claude/
+CLAUDE.md
+
+# Editor config (optional, can be included if needed)
+.editorconfig
+
+# Temporary files
+nul
+
+# Azure
+azure-pipelines.yml
+.publishsettings
+PublishSettings/
+*.PublishSettings
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# Test Coverage Reports
+coverage.xml
+Coverage/
+OpenCover/
+
+# Misc
+misc/
+*.stackdump
+core.*
+
+
+CLAUDE.md
+.github
